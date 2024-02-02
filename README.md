@@ -21,6 +21,6 @@
 
 8.[statml-lab 08](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab08.ipynb)
 
-9.[statml-lab 09](
+9.[statml-lab 09](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab09.ipynb)
 
 10.[statml-lab 10](
