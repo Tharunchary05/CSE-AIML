@@ -11,9 +11,9 @@
 
 3.[statml-lab 03](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab03.ipynb)
 
-4.[statml-lab 04](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab04a.ipynb)
+4.[statml-lab 04 a](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab04a.ipynb)
 
-5.[statml-lab 05](
+5.[statml-lab 04 b](
 
 6.[statml-lab 06](
 
