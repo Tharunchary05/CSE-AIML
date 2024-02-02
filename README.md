@@ -23,4 +23,4 @@
 
 9.[statml-lab 09](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab09.ipynb)
 
-10.[statml-lab 10](
+10.[statml-lab 10](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab10.ipynb)
