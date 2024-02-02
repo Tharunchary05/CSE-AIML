@@ -7,7 +7,7 @@
 # STATML LABS
 1.[statml-lab 01](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab01.ipynb)
 
-2.[statml-lab 02](
+2.[statml-lab 02](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab02.ipynb)
 
 3.[statml-lab 03](
 
