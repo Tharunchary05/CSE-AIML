@@ -17,7 +17,7 @@
 
 6.[statml-lab 06](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab06.ipynb)
 
-7.[statml-lab 07](
+7.[statml-lab 07](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab07.ipynb)
 
 8.[statml-lab 08](
 
