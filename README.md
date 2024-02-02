@@ -9,7 +9,7 @@
 
 2.[statml-lab 02](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab02.ipynb)
 
-3.[statml-lab 03](
+3.[statml-lab 03](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab03.ipynb)
 
 4.[statml-lab 04](
 
