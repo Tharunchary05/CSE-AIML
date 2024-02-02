@@ -5,4 +5,4 @@
 2.[Lab-02](https://github.com/Tharunchary05/CSE-AIML/blob/main/AIML%20LAB%2002.ipynb)
 
 # STATML LABS
-1.[statml-lab 01](
+1.[statml-lab 01](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab01.ipynb)
