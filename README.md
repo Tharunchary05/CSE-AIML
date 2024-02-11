@@ -6,7 +6,7 @@
 
 3.[Lab-03](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab03.ipynb)
 
-4.[LAB-04].(
+4.[LAB-04].(https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab04.ipynb)
 
 # STATML LABS
 1.[statml-lab 01](https://github.com/Tharunchary05/CSE-AIML/blob/main/StatMl%20Lab01.ipynb)
