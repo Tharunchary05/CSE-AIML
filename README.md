@@ -12,7 +12,7 @@
 
 6.[LAB-06](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab6.ipynb)
 
-7.[LAB-07]()
+7.[LAB-07](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab07.ipynb)
 
 
 
