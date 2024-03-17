@@ -8,7 +8,11 @@
 
 4.[LAB-04](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab04.ipynb)
 
-4.[LAB-05](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab05.ipynb)
+5.[LAB-05](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab05.ipynb)
+
+6.[LAB-06]()
+
+7.[LAB-07]()
 
 
 
