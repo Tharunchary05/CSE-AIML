@@ -10,7 +10,7 @@
 
 5.[LAB-05](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab05.ipynb)
 
-6.[LAB-06]()
+6.[LAB-06](https://github.com/Tharunchary05/CSE-AIML/blob/main/Lab6.ipynb)
 
 7.[LAB-07]()
 
