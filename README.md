@@ -16,7 +16,7 @@
 
 8.[LAB-08](https://github.com/Tharunchary05/CSE-AIML/blob/main/AIML_LAB-08.ipynb)
 
-9.[LAB-09]()
+9.[LAB-09](https://github.com/Tharunchary05/CSE-AIML/blob/main/AIML_LAB-09.ipynb)
 
 
 
