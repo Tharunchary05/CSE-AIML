@@ -18,6 +18,10 @@
 
 9.[LAB-09](https://github.com/Tharunchary05/CSE-AIML/blob/main/AIML_LAB-09.ipynb)
 
+9.[LAB-10]()
+
+
+
 
 
 
