@@ -23,7 +23,7 @@
 
 # AIML PROJECT
 
-1.[code]()
+1.[AIML_PROJECT](https://github.com/Tharunchary05/CSE-AIML/blob/main/AIML_PROJECT.ipynb)
 
 
 
